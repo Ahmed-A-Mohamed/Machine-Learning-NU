@@ -1,0 +1,19 @@
+After completing this course you will be able to :
+
+Explore essential libraries for deep learning, such as NumPy, Matplotlib, and SciPy.
+
+Build, train and deploy your first neural network with Tensorflow that can correctly classify fashion images.
+
+Create more powerful and complex models for better accuracy.
+
+Analyze and improve the performance of the training model using hyperparameter tuning and optimization.
+
+Compare between different architectures of a convolutional neural network that can solve complex image classification tasks.
+
+Build and train Recurrent Neural Networks (RNNs).
+
+Compare between RNN variants such as GRUs and LSTMs.
+
+Utilize word embedding algorithms to generate numeric representations of text.
+
+Implement recurrent neural networks (RNNs) to classify movie reviews based on sentiment.
